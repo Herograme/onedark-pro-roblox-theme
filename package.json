@@ -1,0 +1,72 @@
+{
+    "name": "onedark-roblox-theme",
+    "displayName": "OneDark Pro Roblox Theme(Beta)",
+    "version": "0.1.6",
+    "description": "OneDark Pro Roblox Theme with support for Luau scripts and optimized for Victor Mono font",
+    "license": "MIT",
+    "icon": "./thema/logo.png",
+    "engines": {
+      "vscode": "^1.22.0"
+    },
+    "categories": [
+      "Themes"
+    ],
+    "keywords": [
+      "theme",
+      "dark theme",
+      "onedark",
+      "atom",
+      "roblox",
+      "luau",
+      "victor mono",
+      "ligatures",
+      "programming font"
+    ],
+    "contributes": {
+      "themes": [
+        {
+          "id": "OneDark Pro Roblox Theme",
+          "label": "OneDark Pro Roblox Theme",
+          "uiTheme": "vs-dark",
+          "path": "./thema/onedark-pro-roblox-luau.json"
+        }
+      ]
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/herograme/onedark-pro-roblox-theme.git"
+    },
+    "publisher": "herograme",
+    "galleryBanner": {
+      "color": "#282c34",
+      "theme": "dark"
+    },
+    "badges": [
+      {
+        "url": "https://img.shields.io/badge/Font%20Recommendation-Victor%20Mono-blue",
+        "href": "https://github.com/rubjo/victor-mono",
+        "description": "Optimized for Victor Mono font with cursive italics and ligatures"
+      },
+      {
+        "url": "https://img.shields.io/badge/Based%20on-OneDark%20Pro-purple",
+        "href": "https://github.com/Binaryify/OneDark-Pro",
+        "description": "Based on the popular OneDark Pro theme by Binaryify"
+      }
+    ],
+    "extensionPack": [],
+    "extensionDependencies": [],
+    "markdown": "github",
+    "qna": "marketplace",
+    "sponsor": {
+      "url": "https://github.com/rubjo/victor-mono"
+    },
+    "readme": "README.md",
+    "scripts": {},
+    "capabilities": {
+      "virtualWorkspaces": true,
+      "untrustedWorkspaces": {
+        "supported": true
+      }
+    }
+}
+  
