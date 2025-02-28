@@ -1,7 +1,7 @@
 {
     "name": "onedark-roblox-theme",
     "displayName": "OneDark Pro Roblox Theme(Beta)",
-    "version": "0.1.6",
+    "version": "1.0.0",
     "description": "OneDark Pro Roblox Theme with support for Luau scripts and optimized for Victor Mono font",
     "license": "MIT",
     "icon": "./thema/logo.png",
